@@ -1,4 +1,4 @@
-# Awesome Android
+# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
@@ -86,6 +86,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
+- [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
 
 #### Images
 
@@ -174,7 +175,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
 - [Android Annotation framework](https://github.com/excilys/androidannotations) - Using Java annotations, developers can show their intent and let AndroidAnnotations generate the plumbing code at compile time.
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
-- [Android Scripting](http://code.google.com/p/android-scripting/) - Allows to run scripting languages on Android.
+- [Android Scripting](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
 - [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
 - [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
 - [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
@@ -240,6 +241,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Anko](https://github.com/JetBrains/anko) - DSL for Android written in Kotlin by JetBrains.
 - [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection writen in Kotlin based on ButterKnife
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples writen in Kotlin.
+- [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
